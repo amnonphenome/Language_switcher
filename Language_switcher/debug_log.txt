@@ -1,0 +1,15 @@
+[20250725002656] Current layout: Hebrew
+[20250725002656] Original text: tvki
+[20250725002656] Converted text: tvki
+[20250725002656] Switching to English
+[20250725002657] Paste complete\n
+[20250725002700] Current layout: Hebrew
+[20250725002700] Original text: tvki
+[20250725002700] Converted text: tvki
+[20250725002700] Switching to English
+[20250725002700] Paste complete\n
+[20250725002701] Current layout: English
+[20250725002702] Original text: tvki
+[20250725002702] Converted text: ????
+[20250725002702] Switching to Hebrew
+[20250725002702] Paste complete\n
