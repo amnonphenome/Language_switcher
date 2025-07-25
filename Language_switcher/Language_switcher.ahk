@@ -65,7 +65,7 @@ Log(msg) {
     A_Clipboard := converted
     Sleep(100)
     SendInput("^v")
-    Sleep(51)
+    Sleep(50)
     SendInput("{Right}{End}")
     Log("Paste complete`n")
 }
