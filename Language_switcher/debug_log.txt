@@ -4,3 +4,21 @@
 [20250725005421] Switching to Hebrew
 [20250725005421] Paste complete
 
+[20250725014211] Current layout: English
+[20250725014211] Original text: gjgjhgjg
+[20250725014211] Converted text: ????????
+[20250725014211] Switching to Hebrew
+[20250725014211] Paste complete
+
+[20250725014212] Current layout: Hebrew
+[20250725014213] Original text: gjgjhgjg
+[20250725014213] Converted text: gjgjhgjg
+[20250725014213] Switching to English
+[20250725014213] Paste complete
+
+[20250725172244] Current layout: English
+[20250725172244] Original text: gshhi gucs?
+[20250725172244] Converted text: ????? ?????
+[20250725172244] Switching to Hebrew
+[20250725172244] Paste complete
+
